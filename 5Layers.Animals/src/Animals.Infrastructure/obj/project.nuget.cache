@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sojli9Xt8EY=",
+  "success": true,
+  "projectFilePath": "F:\\TeachingHillel\\Homework11\\5Layers.Animals\\src\\Animals.Infrastructure\\Animals.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BARYA\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\BARYA\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\BARYA\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

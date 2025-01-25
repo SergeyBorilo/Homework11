@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BARYA\\Documents\\Books\\5Layers.Animals\\5Layers.Animals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F27C004B-7BA0-43F4-A8F0-6DD32BCD387B}|src\\Animals.Api\\Animals.Api.csproj|c:\\users\\barya\\documents\\books\\5layers.animals\\5layers.animals\\src\\animals.api\\domain\\animals\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F27C004B-7BA0-43F4-A8F0-6DD32BCD387B}|src\\Animals.Api\\Animals.Api.csproj|solutionrelative:src\\animals.api\\domain\\animals\\animalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|c:\\users\\barya\\documents\\books\\5layers.animals\\5layers.animals\\src\\animals.application\\domain\\animals\\queries\\getanimalsbyname\\getanimalsbynamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|solutionrelative:src\\animals.application\\domain\\animals\\queries\\getanimalsbyname\\getanimalsbynamequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|c:\\users\\barya\\documents\\books\\5layers.animals\\5layers.animals\\src\\animals.application\\domain\\animals\\queries\\getanimalsbyname\\animalsbynamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5F7DA45-DE2D-4FC6-A582-365209CAC93E}|src\\Animals.Application\\Animals.Application.csproj|solutionrelative:src\\animals.application\\domain\\animals\\queries\\getanimalsbyname\\animalsbynamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8117E32C-0A90-40D0-B6E2-5C9269A0F945}|src\\Animals.Infrastructure\\Animals.Infrastructure.csproj|c:\\users\\barya\\documents\\books\\5layers.animals\\5layers.animals\\src\\animals.infrastructure\\application\\domain\\animals\\queries\\getanimalsbyname\\getanimalsbynamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8117E32C-0A90-40D0-B6E2-5C9269A0F945}|src\\Animals.Infrastructure\\Animals.Infrastructure.csproj|solutionrelative:src\\animals.infrastructure\\application\\domain\\animals\\queries\\getanimalsbyname\\getanimalsbynamequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAnimalsByNameQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\BARYA\\Documents\\Books\\5Layers.Animals\\5Layers.Animals\\src\\Animals.Infrastructure\\Application\\Domain\\Animals\\Queries\\GetAnimalsByName\\GetAnimalsByNameQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Infrastructure\\Application\\Domain\\Animals\\Queries\\GetAnimalsByName\\GetAnimalsByNameQueryHandler.cs",
+              "ToolTip": "C:\\Users\\BARYA\\Documents\\Books\\5Layers.Animals\\5Layers.Animals\\src\\Animals.Infrastructure\\Application\\Domain\\Animals\\Queries\\GetAnimalsByName\\GetAnimalsByNameQueryHandler.cs",
+              "RelativeToolTip": "src\\Animals.Infrastructure\\Application\\Domain\\Animals\\Queries\\GetAnimalsByName\\GetAnimalsByNameQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:20:59.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimalsByNameDto.cs",
+              "DocumentMoniker": "C:\\Users\\BARYA\\Documents\\Books\\5Layers.Animals\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimalsByName\\AnimalsByNameDto.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimalsByName\\AnimalsByNameDto.cs",
+              "ToolTip": "C:\\Users\\BARYA\\Documents\\Books\\5Layers.Animals\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimalsByName\\AnimalsByNameDto.cs",
+              "RelativeToolTip": "src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimalsByName\\AnimalsByNameDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:20:54.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAnimalsByNameQuery.cs",
+              "DocumentMoniker": "C:\\Users\\BARYA\\Documents\\Books\\5Layers.Animals\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimalsByName\\GetAnimalsByNameQuery.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimalsByName\\GetAnimalsByNameQuery.cs",
+              "ToolTip": "C:\\Users\\BARYA\\Documents\\Books\\5Layers.Animals\\5Layers.Animals\\src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimalsByName\\GetAnimalsByNameQuery.cs",
+              "RelativeToolTip": "src\\Animals.Application\\Domain\\Animals\\Queries\\GetAnimalsByName\\GetAnimalsByNameQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:20:34.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalsController.cs",
+              "DocumentMoniker": "C:\\Users\\BARYA\\Documents\\Books\\5Layers.Animals\\5Layers.Animals\\src\\Animals.Api\\Domain\\Animals\\AnimalsController.cs",
+              "RelativeDocumentMoniker": "src\\Animals.Api\\Domain\\Animals\\AnimalsController.cs",
+              "ToolTip": "C:\\Users\\BARYA\\Documents\\Books\\5Layers.Animals\\5Layers.Animals\\src\\Animals.Api\\Domain\\Animals\\AnimalsController.cs",
+              "RelativeToolTip": "src\\Animals.Api\\Domain\\Animals\\AnimalsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T19:20:25.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

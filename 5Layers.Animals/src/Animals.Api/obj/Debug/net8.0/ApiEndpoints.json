@@ -1,0 +1,108 @@
+[
+  {
+    "ContainingType": "Animals.Api.Domain.Animals.AnimalsController",
+    "Method": "GetAnimals",
+    "RelativePath": "api/animals",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Animals.Api.Domain.Animals.AnimalsController",
+    "Method": "AddAnimal",
+    "RelativePath": "api/animals",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Animals.Api.Domain.Animals.Records.CreateAnimalRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Animals.Api.Domain.Animals.AnimalsController",
+    "Method": "GetAnumalDetails",
+    "RelativePath": "api/animals/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Animals.Api.Domain.Animals.AnimalsController",
+    "Method": "UpdateAnimal",
+    "RelativePath": "api/animals/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Animals.Api.Domain.Animals.Records.UpdateAnimalRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Animals.Api.Domain.Animals.AnimalsController",
+    "Method": "DeleteAnimal",
+    "RelativePath": "api/animals/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Animals.Api.Domain.Animals.AnimalsController",
+    "Method": "GetAnimalByName",
+    "RelativePath": "api/animals/get-by-name/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
